@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class CharacterController : MonoBehaviour
+public class CharacterControllerX : MonoBehaviour
 {
     public LayerMask clickable;
 
